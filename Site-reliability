@@ -1,0 +1,4 @@
+Main article: Site reliability engineering
+
+In 2003, Google developed site reliability engineering (SRE), an approach for releasing new features continuously into large-scale high-availability systems while maintaining high-quality end-user experience.[23] While SRE predates the development of DevOps, they are generally viewed as being related to each other.
+
