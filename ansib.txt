@@ -1,0 +1,1 @@
+Ansible: Ansible is an automation tool that allows for the management of infrastructure as code. It enables the provisioning of servers, configuration management, and application deployment.
